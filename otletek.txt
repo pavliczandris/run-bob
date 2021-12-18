@@ -1,0 +1,27 @@
+abilityk:
+
+- charge left/right
+- gallop left/right
+- jump
+- jump + smash
+- shoot/bash
+- dash
+- break
+- spread
+
+
+extrák:
+
+- több képrenyő egybe
+- köd
+- gyorsítás
+- részeg kamera
+- leesni egy szintet
+
+terepek:
+
+- utca, piactér, dobozokkal
+- nightclub
+- elhagyatott hotel
+- havas táj
+- sűrű erdő
